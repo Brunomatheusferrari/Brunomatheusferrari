@@ -2,7 +2,7 @@
 
 
 - 💻 Estudando JavaScript / React
-- 💬 Email de Contato: Brunomatheussferrari@gmail.com
+- 💬 Cursando Entra21
 - 🎨 Buscando me tornar um Dev Front-End
 
 ##
