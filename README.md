@@ -1,5 +1,9 @@
 ### Hello World 👋
 
+- 🍰 16 Anos
+- 🎨 Estudando Javascript / React
+- 💻 Cursando Entra21
+
 ##
 
 
