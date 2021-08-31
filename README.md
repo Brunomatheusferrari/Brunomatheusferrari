@@ -1,9 +1,4 @@
-### Olá Mundo 👋
-
-
-- 💻 Estudando JavaScript / React
-- 💬 Cursando Entra21
-- 🎨 Buscando me tornar um Dev Front-End
+### Hello World 👋
 
 ##
 
