@@ -24,3 +24,4 @@
   
 ##
   
+![Snake animation](https://github.com/Brunomatheusferrari/Brunomatheusferrari/blob/output/github-contribution-grid-snake.svg)
