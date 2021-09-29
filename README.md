@@ -22,9 +22,7 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
   
-##
-  
-    ## Ferramentas de Trabalho:
+  ## Ferramentas de Trabalho:
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>    
