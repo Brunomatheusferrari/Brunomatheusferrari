@@ -31,6 +31,6 @@
     <img align="center" alt="Lucas-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </div>
   
-    ##
+  ##
   
 ![Snake animation](https://github.com/Brunomatheusferrari/Brunomatheusferrari/blob/output/github-contribution-grid-snake.svg)
