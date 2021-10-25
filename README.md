@@ -1,7 +1,7 @@
 ### Hello World 👋
 - 🎉 16 anos
 - 🎨 Estudando Javascript / React
-- 💻 Cursando Entra21
+- 💻 Recém formado no Entra21
 
 ##
 
