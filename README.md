@@ -1,7 +1,7 @@
 ### Hello World 👋
-- 🎉 16 anos
-- 🎨 Estudando Javascript / React
-- 💻 Recém formado no Entra21
+- 🎉 17 anos
+- 🎨 Desenvolvedor Web
+- 💻 UI/UX Designer
 
 ##
 
