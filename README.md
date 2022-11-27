@@ -1,21 +1,27 @@
   <img align="center" height="auto" width="100%" src="https://lh3.googleusercontent.com/pw/AL9nZEWirijRr-K9nGJOxVr0RyYvhcLnLqQSocHkdOn-umNd2x06DpK5I1vW2Id4HF1FkOoPWz8LfjVXtBpSJkn6HqBI41kFdGaZyslkRRGMzywZ1mKrj4xgUSupsNf_cbbJjeiK04B_Rv8-QST6nKAzsghAB3k1CdRvGvwHmEqE4QBRMSfNFvpxMfyRVeiZ-2JaYgIYhiq6DEI3Aagt8Zbx7VKrQc1Mac4YPefUJ5RKrVuKVioJnP1ac_m7MXyCAGIPK40bkrDOSLHCUp9B2heOpFjQNU5EAHE_3NFjMbREJ0QkhuERDzt2C4CVfVO0ReDSBtPLm1Y9iBSt0l8-FoOBBrg7amptS07wD3gjtgc6Eizba9RMBakyPOo4JjZEpQBGjz7d-FCohAXyw4wtp36dkVQtn6khxsE6eQzoMSOBmzs3I1qRSOpe96mj8HJwTWHnkVn4DmCIA6NE7x5H6NshsUPLALDTKkmEzOjmAUXuPbKFjf4XzURqfNc4uD1-4g9uadik4Pxi0lup3BYMEAUEqwZX6kK4Q2uhU4ziGd-bbIIP4tTSme4TKCdeffBNv--FT144PfbpDKeFZqd0vswgTjFWsSdIIum-sdEiU5HC9BPG2Pzrkz5Ub52cpYUtXqFyScUQgjBfjAtxSXpznbADSKMcyIcntk3jXW5PzOArzR7ROuKiyD_U-Ya7xqy3WaCuAf2Hcg8UFNd7cyhP-5cltAeAxpy6Ks3KbA35917mSr0xcuf5lMBkU1ijZuqO-57s-unpRGS1IYDfXQCN1JAMaADBb40-qB3TWHLhYQrwrXEVuHC3liPcaW34DyjMczF1A4TrJQBJH2s8EMb8xBpZAe_sRvEKRVoROb3pubBftk3lOP3WU1t0MF37gec6dErlZSnV4fL6R0muUCREAFU7U2sG9fJZHr1jhyeobTMynAbzrpJ9fLSnWdnqIWq4Rapf-yPkvEpo0uvS00ETCemYWwvd7v6MI-lA8PQ106d_oo3KrJF26z8wC9wtzMVkVOUz=w1920-h619-no?authuser=0">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/Hello World!;Second+line+of+text)](https://git.io/typing-svg)
+<br>
+<br>
 
-
-<a href="https://www.linkedin.com/in/bruno-matheus-ferrari-99658b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/brunomatheusferrari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"        target="_blank"></a>
-
-### Hello World 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5BCDEC&size=20&center=true&vCenter=true&width=1000&lines=Hello+World!,+My+Name+is+Bruno+Matheus+Ferrari.;I'm+17+years+old.;I+from+Timbó,+SC.;I+study+web+development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brunomatheusferrari&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Matheus github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomatheusferrari&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brunomatheusferrari&show_icons=true&count_private=true&hide_border=true&title_color=5BCDEC&icon_color=5BCDEC&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Matheus github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomatheusferrari&layout=compact&hide_border=true&title_color=5BCDEC&text_color=5BCDEC&bg_color=0d1117" />
+  
+  
 </div>
+
+<br>
+<br><br>
+<br>
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Brunomatheusferrari&theme=react-dark&hide_border=true&area=true)
   
@@ -45,5 +51,8 @@
   <div>
 
 </div>  
+
+<a href="https://www.linkedin.com/in/bruno-matheus-ferrari-99658b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/brunomatheusferrari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"        target="_blank"></a>
 
 ![Snake animation](https://github.com/Brunomatheusferrari/Brunomatheusferrari/blob/output/github-contribution-grid-snake.svg)
