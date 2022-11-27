@@ -1,3 +1,5 @@
+  <img align="center" height="auto" width="100%" src="https://imgur.com/a/bGqRBBA">
+
 ### Hello World 👋
 - 🎉 17 anos
 - 🎨 Desenvolvedor Web
