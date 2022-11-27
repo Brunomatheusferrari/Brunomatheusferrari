@@ -14,7 +14,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomatheusferrari&layout=compact&langs_count=7&theme=jolly"/>
 
   
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Brunomatheusferrari&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Brunomatheusferrari&theme=react-dark&hide_border=true&area=true)
   
 
   <div style="display: inline_block"><br>
