@@ -5,12 +5,7 @@
 
 ### Hello World 
 
-<h1 align="center">Hi 👋, I'm Bruno Matheus</h1>
-<h3 align="center">I`m brazilian web developer.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
