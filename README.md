@@ -3,17 +3,6 @@
 ### Hello World 
 
 
-### Informações
-
-|      |                                             |
-| ----------------- | ---------------------------------------------------------------- |
-|  Idade            | 17 anos |
-| Cidade            |  Timbó |
-| Especialização       | Desenvolvimento Web  |
-| Área      | Full Stack |
-
-
-
 ##
 
 
